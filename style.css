@@ -1,0 +1,11 @@
+:root{
+  --themeColor : #788a7c;
+  --headingColor :#6ed198 ;
+  --headingColordark : #6c757d ;
+}
+.navsmal{
+  font-size: 12px;
+}
+.navbar{
+  background-color: var(--headingColor)!important;
+}
